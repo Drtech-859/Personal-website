@@ -1,0 +1,25 @@
+.calc{
+    width: 400px;
+    height:500px;
+    background: rgb(0, 0, 0);
+    margin-left: 450px;
+    margin-top: 100px;
+    display: block;
+    box-shadow:rgb(117, 84, 84) 5px 3px 5px;
+}
+#screen{
+    width: 80%;
+    height: 50px; 
+    margin-left: 10%;
+    margin-top: 30px;
+    pointer-events: none;
+}
+
+
+.btn{
+    width: 50px;
+    height:40px;
+    margin-left: 40px;
+    margin-top: 30px;
+    background: rgb(136, 178, 241);
+}
